@@ -1,0 +1,30 @@
+body{
+  background-color: #fae7cb;
+  text-align: center;
+  font-family: "Montserrat", arial;
+}
+
+h1{
+  font-size: 7rem;
+  color: #ff7272;
+  font-family: "Montserrat", Arial;
+  font-weight: 900;
+  margin: 5rem auto 3rem;
+}
+
+.item{
+  list-style: none;
+  background-color: #fffdf9;
+  width: 30%;
+  margin: 0 auto;
+  text-align: left;
+  }
+
+.textboxDiv{
+  width: 30%;
+  margin: 0.5rem auto;
+}
+
+.removeButton{
+  float: right;
+}
